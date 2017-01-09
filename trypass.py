@@ -14,6 +14,8 @@ def divide(x,y):
 		print 'Exception is ',e
 	else :
 		print 'result is',result
+	finally:
+		print 'executing final block'
 
 	print '--------------------------------'
 def factorial():
