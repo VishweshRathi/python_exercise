@@ -1,5 +1,5 @@
 """
-This is First Code in python.
+Code for finding the Factorial of number
 """
 
 
